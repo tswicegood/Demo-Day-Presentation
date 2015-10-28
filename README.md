@@ -2,15 +2,17 @@
 
 ## Format
 
-Most of The Iron Yard campuses including Austin do "science fair" final presentations. This means that you *won't* be doing one long presentation to a huge group of people. Instead you will have a series of shorter conversations with small groups (3-5 people). This format lends itself really well to the diverse group of attendees that will be at demo day. It puts less pressure on you because you have multiple different opportunities to make a good impression and if you mess one of them up it's not a big deal. It also allows you to cater what you talk about to each audience. If one group is more technical talk about the crazy JavaScript that you wrote. If another group is HR people, talk about your process, user stories, etc. If a third group is friends and family, focus on the details of your actual product or talk about your experience going through The Iron Yard.
+We do a “science fair” Demo Day at the Iron Yard in Austin. This means that you and the rest of the cohort will each have an assigned space to setup and demo your project. Folks who attend the Demo Day will wander around from demo to demo to see what everybody has done.
 
-That said, you should have a pre-rehearsed introduction to get the conversation going. The goal of this introduction is to give your audience a little bit of background and start engaging in a conversation.
+We’ve found this format preferable to an on-stage demo in front of the audience. It’s lower stress and lends itself an interactive Q&A with folks who are interested in your project and you. There’s a wide range of attendees: from CTOs and Directors of Design to HR to folks who are simply interested in The Iron Yard and want to see what y’all have created. Be prepared to change the focus of your talk. Some folks are going to want to dive into the technical aspects while others want to stay high-level talking about the product you’ve created or the process you went through here at The Iron Yard in Austin. Be ready to chat about it all.
 
-Your pre-rehearsed "presentation" should be no more than...
+The best way to prepare for everything is to put together a short — *three minutes or less!* — presentation about your product. Practice this so that it becomes second nature, then jumping from technical to high-level and back won’t be a problem because you’ll know how to talk about your project.
+
+Remember…
 
 ### 3 minutes long!
 
-Your goal is to get as much of the following information in those 3 minutes. You might not be able to do it all, but be as efficient as possible with your words. 3 minutes is not a long time.
+Your goal is to get as much of the following information in those three minutes. You might not be able to do it all, but be as efficient as possible with your words. Three minutes is not a long time.
 
 ## Content
 
