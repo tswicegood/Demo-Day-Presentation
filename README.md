@@ -1,4 +1,4 @@
-# A short guide to presenting on demo day
+# A guide to presenting on demo day
 
 ## Format
 
